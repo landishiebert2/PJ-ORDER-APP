@@ -1,0 +1,1 @@
+../../../Resources/trimesh/scene/scene.py

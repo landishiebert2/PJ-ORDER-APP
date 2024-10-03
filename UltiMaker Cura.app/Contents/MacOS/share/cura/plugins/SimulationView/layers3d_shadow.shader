@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/plugins/SimulationView/layers3d_shadow.shader

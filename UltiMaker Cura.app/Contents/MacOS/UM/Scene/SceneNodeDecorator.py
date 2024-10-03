@@ -1,0 +1,1 @@
+../../../Resources/UM/Scene/SceneNodeDecorator.py

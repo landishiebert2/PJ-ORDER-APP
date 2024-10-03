@@ -1,0 +1,1 @@
+../../../../../../../Resources/share/cura/plugins/UM3NetworkPrinting/resources/qml/DiscoverUM3Action.qml

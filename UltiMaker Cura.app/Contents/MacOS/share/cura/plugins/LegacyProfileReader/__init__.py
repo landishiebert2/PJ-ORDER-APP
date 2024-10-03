@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/plugins/LegacyProfileReader/__init__.py

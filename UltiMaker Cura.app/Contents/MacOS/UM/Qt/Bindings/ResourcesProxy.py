@@ -1,0 +1,1 @@
+../../../../Resources/UM/Qt/Bindings/ResourcesProxy.py

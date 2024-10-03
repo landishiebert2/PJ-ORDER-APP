@@ -1,0 +1,1 @@
+../../../Resources/PyQt6/lupdate/translation_file.py

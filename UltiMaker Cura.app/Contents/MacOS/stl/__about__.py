@@ -1,0 +1,1 @@
+../../Resources/stl/__about__.py

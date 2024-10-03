@@ -1,0 +1,1 @@
+../../../../../../Resources/share/cura/plugins/USBPrinting/avr_isp/ispBase.py

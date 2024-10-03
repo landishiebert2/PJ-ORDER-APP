@@ -1,0 +1,1 @@
+../../../Resources/trimesh/scene/__init__.py

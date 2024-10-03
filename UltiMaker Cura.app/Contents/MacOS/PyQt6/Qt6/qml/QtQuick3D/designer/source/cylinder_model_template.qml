@@ -1,0 +1,1 @@
+../../../../../../../Resources/PyQt6/Qt6/qml/QtQuick3D/designer/source/cylinder_model_template.qml

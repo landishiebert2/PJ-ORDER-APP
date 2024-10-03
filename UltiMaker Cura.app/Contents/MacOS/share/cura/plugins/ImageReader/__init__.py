@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/plugins/ImageReader/__init__.py

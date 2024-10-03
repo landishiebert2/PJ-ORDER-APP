@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/resources/i18n/fdmprinter.def.json.pot

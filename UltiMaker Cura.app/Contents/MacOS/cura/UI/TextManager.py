@@ -1,0 +1,1 @@
+../../../Resources/cura/UI/TextManager.py

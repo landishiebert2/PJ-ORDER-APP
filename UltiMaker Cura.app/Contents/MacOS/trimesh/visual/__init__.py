@@ -1,0 +1,1 @@
+../../../Resources/trimesh/visual/__init__.py

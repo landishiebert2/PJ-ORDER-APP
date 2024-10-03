@@ -1,0 +1,1 @@
+../../../Resources/tcl/msgs/zh_sg.msg

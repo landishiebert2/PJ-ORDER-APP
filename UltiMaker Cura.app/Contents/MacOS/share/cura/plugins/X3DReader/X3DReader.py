@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/plugins/X3DReader/X3DReader.py

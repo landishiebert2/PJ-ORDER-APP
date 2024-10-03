@@ -1,0 +1,1 @@
+../../../Resources/trimesh/path/raster.py

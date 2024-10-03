@@ -1,0 +1,1 @@
+../../../Resources/PyQt6/lupdate/source_file.py

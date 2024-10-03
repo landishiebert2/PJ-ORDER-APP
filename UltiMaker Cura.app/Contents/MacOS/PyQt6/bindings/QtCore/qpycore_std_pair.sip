@@ -1,0 +1,1 @@
+../../../../Resources/PyQt6/bindings/QtCore/qpycore_std_pair.sip

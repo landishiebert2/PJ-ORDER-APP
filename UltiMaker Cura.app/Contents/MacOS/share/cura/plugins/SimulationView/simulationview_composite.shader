@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/plugins/SimulationView/simulationview_composite.shader

@@ -1,0 +1,1 @@
+../../../Resources/tcl/msgs/bn.msg

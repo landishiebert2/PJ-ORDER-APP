@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/plugins/TrimeshReader/__init__.py

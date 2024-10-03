@@ -1,0 +1,1 @@
+../../../../../../Resources/share/uranium/resources/i18n/ko_KR/uranium.po

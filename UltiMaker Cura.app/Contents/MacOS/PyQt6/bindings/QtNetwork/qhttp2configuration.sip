@@ -1,0 +1,1 @@
+../../../../Resources/PyQt6/bindings/QtNetwork/qhttp2configuration.sip

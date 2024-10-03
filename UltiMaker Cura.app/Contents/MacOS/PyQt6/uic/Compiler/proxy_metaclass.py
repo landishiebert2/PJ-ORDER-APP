@@ -1,0 +1,1 @@
+../../../../Resources/PyQt6/uic/Compiler/proxy_metaclass.py

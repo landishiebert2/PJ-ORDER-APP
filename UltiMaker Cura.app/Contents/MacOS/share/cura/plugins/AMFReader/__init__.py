@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/plugins/AMFReader/__init__.py

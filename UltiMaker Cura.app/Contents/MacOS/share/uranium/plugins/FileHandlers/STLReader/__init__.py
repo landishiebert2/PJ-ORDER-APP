@@ -1,0 +1,1 @@
+../../../../../../Resources/share/uranium/plugins/FileHandlers/STLReader/__init__.py

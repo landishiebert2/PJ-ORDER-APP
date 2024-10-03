@@ -1,0 +1,1 @@
+../../../Resources/tk/demos/dialog1.tcl

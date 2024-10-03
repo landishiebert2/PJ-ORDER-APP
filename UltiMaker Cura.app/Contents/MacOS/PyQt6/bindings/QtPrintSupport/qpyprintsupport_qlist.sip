@@ -1,0 +1,1 @@
+../../../../Resources/PyQt6/bindings/QtPrintSupport/qpyprintsupport_qlist.sip

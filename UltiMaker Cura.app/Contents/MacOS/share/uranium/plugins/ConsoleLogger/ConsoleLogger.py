@@ -1,0 +1,1 @@
+../../../../../Resources/share/uranium/plugins/ConsoleLogger/ConsoleLogger.py

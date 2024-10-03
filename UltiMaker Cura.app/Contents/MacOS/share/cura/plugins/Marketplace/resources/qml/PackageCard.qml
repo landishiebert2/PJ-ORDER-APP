@@ -1,0 +1,1 @@
+../../../../../../../Resources/share/cura/plugins/Marketplace/resources/qml/PackageCard.qml

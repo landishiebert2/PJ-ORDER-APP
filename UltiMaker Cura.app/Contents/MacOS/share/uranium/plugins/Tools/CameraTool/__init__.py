@@ -1,0 +1,1 @@
+../../../../../../Resources/share/uranium/plugins/Tools/CameraTool/__init__.py

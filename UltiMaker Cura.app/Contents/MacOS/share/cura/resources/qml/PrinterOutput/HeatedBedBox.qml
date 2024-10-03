@@ -1,0 +1,1 @@
+../../../../../../Resources/share/cura/resources/qml/PrinterOutput/HeatedBedBox.qml

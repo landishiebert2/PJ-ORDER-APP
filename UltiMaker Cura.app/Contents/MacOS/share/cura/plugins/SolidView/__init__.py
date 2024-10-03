@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/plugins/SolidView/__init__.py

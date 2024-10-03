@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/plugins/CuraProfileWriter/__init__.py

@@ -1,0 +1,1 @@
+../../../Resources/PyQt6/uic/icon_cache.py

@@ -1,0 +1,1 @@
+../../../../../../Resources/share/cura/plugins/DigitalLibrary/src/__init__.py

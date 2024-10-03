@@ -1,0 +1,1 @@
+../../../../../../Resources/share/cura/plugins/VersionUpgrade/VersionUpgrade25to26/VersionUpgrade25to26.py

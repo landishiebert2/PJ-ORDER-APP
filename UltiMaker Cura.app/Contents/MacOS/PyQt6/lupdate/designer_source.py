@@ -1,0 +1,1 @@
+../../../Resources/PyQt6/lupdate/designer_source.py

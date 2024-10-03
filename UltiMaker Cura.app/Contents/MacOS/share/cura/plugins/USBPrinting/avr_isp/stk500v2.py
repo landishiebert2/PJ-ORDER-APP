@@ -1,0 +1,1 @@
+../../../../../../Resources/share/cura/plugins/USBPrinting/avr_isp/stk500v2.py

@@ -1,0 +1,1 @@
+../../../Resources/trimesh/viewer/widget.py

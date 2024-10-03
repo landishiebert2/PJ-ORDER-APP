@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/plugins/ModelChecker/ModelChecker.qml

@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/resources/shaders/camera_distance.shader

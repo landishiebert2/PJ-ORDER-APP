@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/plugins/CuraProfileReader/__init__.py

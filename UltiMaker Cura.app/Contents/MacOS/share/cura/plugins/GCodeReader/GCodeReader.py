@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/plugins/GCodeReader/GCodeReader.py

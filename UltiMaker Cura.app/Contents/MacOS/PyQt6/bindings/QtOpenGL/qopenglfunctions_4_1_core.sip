@@ -1,0 +1,1 @@
+../../../../Resources/PyQt6/bindings/QtOpenGL/qopenglfunctions_4_1_core.sip

@@ -1,0 +1,1 @@
+../../../../Resources/PyQt6/bindings/QtBluetooth/qpybluetooth_quint128.sip

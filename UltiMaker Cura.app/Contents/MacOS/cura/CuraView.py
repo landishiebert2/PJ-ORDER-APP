@@ -1,0 +1,1 @@
+../../Resources/cura/CuraView.py

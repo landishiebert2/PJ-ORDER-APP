@@ -1,0 +1,1 @@
+../../../../../../../Resources/share/cura/resources/i18n/ko_KR/LC_MESSAGES/fdmextruder.def.json.mo

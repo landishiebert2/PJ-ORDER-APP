@@ -1,0 +1,1 @@
+../../../../../../../Resources/share/cura/resources/i18n/cs_CZ/LC_MESSAGES/cura.mo

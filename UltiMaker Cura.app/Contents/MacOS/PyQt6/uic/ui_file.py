@@ -1,0 +1,1 @@
+../../../Resources/PyQt6/uic/ui_file.py

@@ -1,0 +1,1 @@
+../../../../Resources/share/cura/plugins/README_plugins.txt

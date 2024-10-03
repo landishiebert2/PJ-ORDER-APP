@@ -1,0 +1,1 @@
+../../../../Resources/PyQt6/bindings/QtQml/qqmlpropertymap.sip

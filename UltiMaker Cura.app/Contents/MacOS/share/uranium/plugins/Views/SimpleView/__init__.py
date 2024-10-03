@@ -1,0 +1,1 @@
+../../../../../../Resources/share/uranium/plugins/Views/SimpleView/__init__.py

@@ -1,0 +1,1 @@
+../../../../Resources/PyQt6/uic/Compiler/as_string.py

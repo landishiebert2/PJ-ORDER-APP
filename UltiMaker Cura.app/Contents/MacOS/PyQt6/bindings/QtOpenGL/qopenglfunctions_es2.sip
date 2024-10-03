@@ -1,0 +1,1 @@
+../../../../Resources/PyQt6/bindings/QtOpenGL/qopenglfunctions_es2.sip

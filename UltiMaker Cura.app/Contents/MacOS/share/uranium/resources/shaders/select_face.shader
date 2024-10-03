@@ -1,0 +1,1 @@
+../../../../../Resources/share/uranium/resources/shaders/select_face.shader

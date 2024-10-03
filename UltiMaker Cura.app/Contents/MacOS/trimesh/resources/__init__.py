@@ -1,0 +1,1 @@
+../../../Resources/trimesh/resources/__init__.py

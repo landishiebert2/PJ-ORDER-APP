@@ -1,0 +1,1 @@
+../../../Resources/tcl/msgs/fr_be.msg

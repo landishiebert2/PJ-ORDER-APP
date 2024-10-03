@@ -1,0 +1,1 @@
+../../../../Resources/trimesh/path/exchange/svg_io.py

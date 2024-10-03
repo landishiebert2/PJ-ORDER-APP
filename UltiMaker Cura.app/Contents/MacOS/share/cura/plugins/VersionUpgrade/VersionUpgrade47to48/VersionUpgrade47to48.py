@@ -1,0 +1,1 @@
+../../../../../../Resources/share/cura/plugins/VersionUpgrade/VersionUpgrade47to48/VersionUpgrade47to48.py

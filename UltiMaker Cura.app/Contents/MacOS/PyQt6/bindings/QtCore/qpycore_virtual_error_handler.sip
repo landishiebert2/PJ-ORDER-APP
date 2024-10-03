@@ -1,0 +1,1 @@
+../../../../Resources/PyQt6/bindings/QtCore/qpycore_virtual_error_handler.sip

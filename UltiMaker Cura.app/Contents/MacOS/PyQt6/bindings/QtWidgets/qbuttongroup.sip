@@ -1,0 +1,1 @@
+../../../../Resources/PyQt6/bindings/QtWidgets/qbuttongroup.sip

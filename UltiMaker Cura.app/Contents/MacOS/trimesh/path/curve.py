@@ -1,0 +1,1 @@
+../../../Resources/trimesh/path/curve.py

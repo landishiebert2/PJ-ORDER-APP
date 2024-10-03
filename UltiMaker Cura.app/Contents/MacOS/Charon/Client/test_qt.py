@@ -1,0 +1,1 @@
+../../../Resources/Charon/Client/test_qt.py

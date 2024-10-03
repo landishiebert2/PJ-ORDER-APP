@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/plugins/MonitorStage/MonitorMain.qml

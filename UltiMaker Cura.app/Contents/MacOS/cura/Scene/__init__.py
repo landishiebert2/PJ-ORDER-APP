@@ -1,0 +1,1 @@
+../../../Resources/cura/Scene/__init__.py

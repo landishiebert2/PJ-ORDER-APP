@@ -1,0 +1,1 @@
+../../../../../../../Resources/share/cura/resources/qml/Menus/ConfigurationMenu/PrintCoreConfiguration.qml

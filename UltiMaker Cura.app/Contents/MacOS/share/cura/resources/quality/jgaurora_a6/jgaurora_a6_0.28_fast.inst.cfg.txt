@@ -1,0 +1,1 @@
+../../../../../../Resources/share/cura/resources/quality/jgaurora_a6/jgaurora_a6_0.28_fast.inst.cfg.txt

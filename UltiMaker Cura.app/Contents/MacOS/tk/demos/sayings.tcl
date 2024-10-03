@@ -1,0 +1,1 @@
+../../../Resources/tk/demos/sayings.tcl

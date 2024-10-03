@@ -1,0 +1,1 @@
+../../../../../../../Resources/share/cura/plugins/VersionUpgrade/VersionUpgrade26to27/tests/TestVersionUpgrade26to27.py

@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/plugins/SimulationView/__init__.py

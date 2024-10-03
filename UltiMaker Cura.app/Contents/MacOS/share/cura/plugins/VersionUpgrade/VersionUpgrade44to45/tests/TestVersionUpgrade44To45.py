@@ -1,0 +1,1 @@
+../../../../../../../Resources/share/cura/plugins/VersionUpgrade/VersionUpgrade44to45/tests/TestVersionUpgrade44To45.py

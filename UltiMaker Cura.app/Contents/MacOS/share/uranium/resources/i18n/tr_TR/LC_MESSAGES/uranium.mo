@@ -1,0 +1,1 @@
+../../../../../../../Resources/share/uranium/resources/i18n/tr_TR/LC_MESSAGES/uranium.mo

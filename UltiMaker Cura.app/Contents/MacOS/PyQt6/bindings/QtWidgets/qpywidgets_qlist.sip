@@ -1,0 +1,1 @@
+../../../../Resources/PyQt6/bindings/QtWidgets/qpywidgets_qlist.sip

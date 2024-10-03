@@ -1,0 +1,1 @@
+../../../Resources/trimesh/exchange/dae.py

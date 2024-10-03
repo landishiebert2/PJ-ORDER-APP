@@ -1,0 +1,1 @@
+../../../../../../../Resources/share/cura/plugins/DigitalLibrary/resources/qml/CreateNewProjectPopup.qml

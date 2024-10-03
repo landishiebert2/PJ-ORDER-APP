@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/resources/shaders/transparent_object.shader

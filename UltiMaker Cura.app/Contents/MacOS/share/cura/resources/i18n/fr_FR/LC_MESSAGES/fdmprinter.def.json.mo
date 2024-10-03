@@ -1,0 +1,1 @@
+../../../../../../../Resources/share/cura/resources/i18n/fr_FR/LC_MESSAGES/fdmprinter.def.json.mo

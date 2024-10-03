@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/plugins/3MFWriter/__init__.py

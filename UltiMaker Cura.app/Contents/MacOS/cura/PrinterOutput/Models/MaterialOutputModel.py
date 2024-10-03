@@ -1,0 +1,1 @@
+../../../../Resources/cura/PrinterOutput/Models/MaterialOutputModel.py

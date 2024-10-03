@@ -1,0 +1,1 @@
+../../../Resources/tk/msgs/fr.msg

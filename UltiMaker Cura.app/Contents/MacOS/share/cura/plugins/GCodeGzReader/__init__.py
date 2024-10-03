@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/plugins/GCodeGzReader/__init__.py

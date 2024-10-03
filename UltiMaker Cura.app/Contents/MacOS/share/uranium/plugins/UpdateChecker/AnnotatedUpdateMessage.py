@@ -1,0 +1,1 @@
+../../../../../Resources/share/uranium/plugins/UpdateChecker/AnnotatedUpdateMessage.py

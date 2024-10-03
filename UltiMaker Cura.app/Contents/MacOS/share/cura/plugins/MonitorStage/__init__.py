@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/plugins/MonitorStage/__init__.py

@@ -1,0 +1,1 @@
+../../../../../../../Resources/share/cura/plugins/UM3NetworkPrinting/src/Models/BaseModel.py

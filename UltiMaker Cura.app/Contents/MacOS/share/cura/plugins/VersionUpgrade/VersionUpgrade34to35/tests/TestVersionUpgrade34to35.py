@@ -1,0 +1,1 @@
+../../../../../../../Resources/share/cura/plugins/VersionUpgrade/VersionUpgrade34to35/tests/TestVersionUpgrade34to35.py

@@ -1,0 +1,1 @@
+../../../../../Resources/share/cura/plugins/FirmwareUpdater/__init__.py
